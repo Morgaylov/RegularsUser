@@ -1,0 +1,17 @@
+{
+  "name": "regexpparser",
+  "version": "0.0.2",
+  "description": "Module to get sentences from a text.This sentences are matching to given regular expressions",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"To test avaliable\" && exit 1"
+  },
+  "repository": "",
+  "author": {
+    "name": "Morgaylov"
+  },
+  "license": "BSD",
+  "readme": "ERROR: No README data found!",
+  "_id": "regexpparser@0.0.2",
+  "_from": "regexpparser@"
+}
